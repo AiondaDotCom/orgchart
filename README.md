@@ -4,6 +4,8 @@
 
 > Build an AI-native company with [OpenClaw](https://openclaw.org) — where most of your workforce are AI agents.
 
+![Aionda OrgChart Screenshot](docs/screenshot.png)
+
 ## What is this?
 
 **Aionda OrgChart** is a real-time organizational chart editor designed for companies that employ both human and AI workers. Built on the premise that modern organizations can leverage AI agents (powered by OpenClaw) as first-class team members, this tool provides:
